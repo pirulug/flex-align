@@ -1,5 +1,5 @@
 # FLEX ALIGN
 
-![flex aling img](img.png)
+[DEMO](https://pirulug.github.io/flex-align/)
 
-(demo)[https://pirulug.github.io/flex-align/]
+![flex aling img](img.png)
